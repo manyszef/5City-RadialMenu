@@ -1,2 +1,2 @@
 # 5City-RadialMenu
-Radial Menu z 5City 2.0
+Radial Menu przypominające te z 5City 2.0
